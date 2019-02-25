@@ -1,7 +1,7 @@
 # bp
-# py
+# 
 # Project Objective: 
-#Technical Documentation Page for Python Language
+#BrittanyK30 portfolio 
 
 # Getting Started (details provided upon completion).
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. (details provided upon completion).
@@ -29,12 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 # Built With
 #HTML5
 #CSS3
-#JS
-# Contributing
-#Not applicable
 
-# Versioning
-#Not applicable 
 
 # Authors
 #Brittany Thirty
